@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mi_BD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Titulo">DEPARTAMENTO DE DESARROLLO ACADEMICO</string>
+    <string name="Nuevo_pendiente">NUEVO PENDIENTE</string>
+    <string name="Consulta">CONSULTA</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="Acerca_de">ACERCA DE...</string>
+    <string name="title_activity_registros">Registros</string>
+    <string name="Clave">CLAVE</string>
+    <string name="Asunto">ASUNTO</string>
+    <string name="Fecha">FECHA</string>
+    <string name="DeScripcion">DESCRIPCION</string>
+    <string name="Lugar">LUGAR</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="actualizar">ACTUALIZAR</string>
+    <string name="buscar">BUCAR</string>
+    <string name="desarrollador">Alejandro Perez Rosales</string>
+    <string name="no_control">11930092</string>
+    <string name="title_activity_desarrollador">desarrollador</string>
+    <string name="title_activity_lista">lista</string>
+
+</resources>
